@@ -1,0 +1,4 @@
+flex
+bison
+g++
+make
